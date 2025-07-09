@@ -1,6 +1,6 @@
 # Hinet-ftp-tool-
 
-這是一款基於 Python 與 tkinter 介面設計的 FTP 測速工具，可用於測試與兩個常見台灣 FTP 伺服器（HiNet）之間的：
+這是一款基於 Python 與 tkinter 介面設計的 FTP 測速工具，可用於測試常見台灣 FTP 伺服器（HiNet）之間的：
 
 -下載速度（Download Speed, Mbps）
 -上傳速度（Upload Speed, Mbps）
